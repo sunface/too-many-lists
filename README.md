@@ -12,7 +12,10 @@
 **专题内容翻译自英文开源书 [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)，但是在内容上做了一些调整(原书虽然非常棒，但是在一些内容组织和文字细节上我觉得还是可以优化下的 ：D)，希望大家喜欢。**
 
 ## 目录
-Todo
+- [不太优秀的单向链表：栈](bad-stack/intro.md)
+    - [数据布局](bad-stack/layout.md)
+    - [基本操作](bad-stack/basic-operations.md)
+    - [最后实现](bad-stack/final-code.md)
 
 ## 我们到底需不需要链表
 经常有读者询问该如何实现一个链表，怎么说呢，这个答案主要取决于你的需求，因此并不是很好回答。鉴于此，我决定通过这本书来详尽的介绍该如何实现一个链表，大家应该都能从这本书中找到答案。
