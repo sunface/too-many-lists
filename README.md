@@ -9,7 +9,10 @@
 
 而本章，你就将见识到何为真正的深坑，看完后，就知道没有提早跳进去是一个多么幸运的事。总之，在专题中，你将学会如何使用 Rust 来实现链表。
 
-**专题内容翻译自英文开源书 [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)，但是在内容上做了一些调整(原书虽然非常棒，但是在一些内容组织和文字细节上我觉得还是可以优化下的 ：D)，希望大家喜欢。**
+> 本书由 [RustTT 翻译小组](https://rusttt.com) 进行翻译，并对内容进行了一些调整，更便于国内读者阅读(原书虽然非常棒，但是在一些内容组织和文字细节上我觉得还是可以优化下的 ：D)。
+> 
+> [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+
 
 ## 目录
 - [不太优秀的单向链表：栈](bad-stack/intro.md)
