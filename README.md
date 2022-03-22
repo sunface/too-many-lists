@@ -11,7 +11,7 @@
 
 > 本书由 [RustTT 翻译小组](https://rusttt.com) 进行翻译，并对内容进行了一些调整，更便于国内读者阅读(原书虽然非常棒，但是在一些内容组织和文字细节上我觉得还是可以优化下的 ：D)。
 > 
-> [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+> 英文原文 [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
 
 ## 目录
